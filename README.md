@@ -1,7 +1,8 @@
 # Material didático para lógica digital: circuitos combinacionais.
 
 ## Sobre o projeto
-
+* Video-aulas: [https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP](https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP)
+* Simulações: 
 
 ## Circuitos desenvolvidos
 * Codificador decimal/binário
