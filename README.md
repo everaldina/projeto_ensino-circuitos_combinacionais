@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 * Video-aulas: [https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP](https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP)
-* Simulações: 
+* Simulações: [https://circuitverse.org/users/166835](https://circuitverse.org/users/166835)
 
 ## Circuitos desenvolvidos
 * Codificador decimal/binário
