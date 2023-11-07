@@ -1,6 +1,11 @@
 # Material didático para lógica digital: circuitos combinacionais.
 
 ## Sobre o projeto
+Repositório para o projeto "Material didático para lógica digital: circuitos combinacionais" realizado para a bolsa PAEG na UESC.
+O projeto apresenta simulações de circuitos combinacionais usados na matéria de Lógica Digital I. Aulas e videoaulas foram desenvolvidas para apresentar o desenvolvimento de tais circuitos, junto com a abordagem de conceitos fundamentais para essas implementações desses circuitos.
+Autora: Everaldina Guimarães Barbosa 
+Orientador: César Alberto Bravo Pariente
+
 * Video-aulas: [https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP](https://www.youtube.com/playlist?list=PLtwTlIJ9_owJNdEZUCGevZvqyO7nHe_mP)
 * Simulações: [https://circuitverse.org/users/166835](https://circuitverse.org/users/166835)
 
